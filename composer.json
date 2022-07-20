@@ -1,15 +1,15 @@
 {
-  "name": "wored/qimensdk-sdk",
+  "name": "xiaocaigua/qimensdk-sdk",
   "description": "阿里奇门sdk",
   "license": "MIT",
   "authors": [
     {
-      "name": "qiliu",
-      "email": "qiliuf@gmail.com"
+      "name": "xiaocaigua",
+      "email": "bccai2010@qq.com"
     }
   ],
   "require": {
-    "hanson/foundation-sdk": "3.0.0",
+    "hanson/foundation-sdk": "5.0.0",
     "ext-curl": "*",
     "ext-json": "*"
   },
